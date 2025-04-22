@@ -167,7 +167,7 @@ Stores login credentials (for demo only).
 
 ---
 
-## 🧪 Sample Queries (Optional)
+## 🧪 Sample Queries
 
 ```sql
 -- Fetch all customer accounts
